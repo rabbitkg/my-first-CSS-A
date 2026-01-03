@@ -1,0 +1,16 @@
+.article{
+    border: 10px solid black;
+    background-color: lightpink;
+    margin: 10px;
+    width: 100%;
+    box-shadow: 10px 10px 5px grey;
+}
+.header{
+    height: 1000px;
+        background-color: lightgreen;
+        background-image: url(../fist\ Photos\ travel.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* background-size: contain; */
+        background-position: center;
+}
